@@ -1,0 +1,15 @@
+{
+	"name": "adf-gopsspotify",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "545295b3-e781-443c-b351-117abe7b99b2",
+		"tenantId": "cbecc6e8-21b1-4f8e-8336-38b70d066aa9"
+	}
+}
